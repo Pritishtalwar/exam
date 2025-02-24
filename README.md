@@ -1,3 +1,3 @@
 # exam
-This is my exam preparation 
+This is my for exam preparation 
 Author =  Pritish Talwar
